@@ -1,9 +1,10 @@
+
 _Hey there! Welcome! Please check us out!_
 
 We wanted to make a page that was:
-* accesable to all students 
-* isolated from canvas in a way that was easily accesable
-* looked like it was made by a 4th grader 
+* Accesible to all students 
+* Isolated from canvas in a way that was easily accesable
+* Looked like it was made by a 4th grader 
 ** (Coded by Grad Students!! have some fun and TRY IT!!) 
 * Regularly updated enough...
 
@@ -11,7 +12,7 @@ We wanted to make a page that was:
   - Get some information on the courses they teach.
   - Learn a little about who they are. 
 
-# If you would like, feel free to send a video to them letting them know who you are! 
+### _If you would like, feel free to sendv them a video letting them know who you are!_ 
 
 [1]:  profiles/IMG_20190210_164227-01.jpg 
 [2]:  https://www.youtube.com/watch?v=4nII6BugOss 
@@ -19,7 +20,4 @@ We wanted to make a page that was:
 | Adam Grimmitt |  kA 386, 456, and 379 |
 | :---         |  ---: |
 | [![Youtube][1]][2]|
-
-
-
 
