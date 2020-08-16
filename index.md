@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 [![Youtube][1]][2]
 
-[1]:  /profiles/IMG_20190210_164227-01.jpeg = 250x250
+[1]:  <img src="https://some-img-host.com/1234567/image.png" width=300 align=right>
 [2]:  https://www.youtube.com/watch?v=4nII6BugOss"
 
 ```markdown
