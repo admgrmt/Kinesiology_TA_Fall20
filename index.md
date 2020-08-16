@@ -8,7 +8,7 @@ We wanted to make a page that was:
 ** (Coded by Grad Students!! have some fun TRY!!) 
 * Regularly updated enough...
 
-## Click on the images below to access videos (90 seconds) introducing each TA
+## Click on the images below to access videos _(90 seconds)_ introducing each TA
   - Get some information on the courses they teach.
   - Learn a little about who they are. 
 
