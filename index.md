@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+[![Test](/profiles/IMG_20190210_164227-01.jpeg )](http://example.net/)
+
 ```markdown
 Syntax highlighted code block
 
@@ -20,8 +22,6 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
-[![Test](/profiles/IMG_20190210_164227-01.jpeg )](http://example.net/)
 
 **Bold** and _Italic_ and `Code` text
 
