@@ -1,6 +1,7 @@
-## Welcome to the page of current KRA Teaching Assistants for Fall 2020
+## Hey there! Welcome! Come check us out. We wanted to make a page that was accesable to all students in the online environment, external from canvas access.
 
-### Fall 2020 TA's
+# Click the images to access a video introducing your TA, including their primary courses that they are assisting as well as a little information on who they are! 
+
 
 #### Adam Grimmitt
 
