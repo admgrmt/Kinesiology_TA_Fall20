@@ -3,9 +3,9 @@ _Hey there! Welcome! Please check us out!_
 
 We wanted to make a page that was:
 * Accesible to all students 
-* Isolated from canvas in a way that was easily accesable
+* Isolated from canvas in a way that was easily accessible
 * Looked like it was made by a 4th grader 
-** (Coded by Grad Students!! have some fun and TRY IT!!) 
+** (Coded by Grad Students!! have some fun TRY!!) 
 * Regularly updated enough...
 
 ## Click on the images below to access videos (90 seconds) introducing each TA
