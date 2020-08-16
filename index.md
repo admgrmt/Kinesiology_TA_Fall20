@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the page for your Kinesiology and Recreation Admiministration Teaching Assistants for Fall 2020
 
 You can use the [editor on GitHub](https://github.com/admgrmt/HumboldtTA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -20,6 +20,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+[![Test](/profiles/IMG_20190210_164227-01.jpeg )](http://example.net/)
 
 **Bold** and _Italic_ and `Code` text
 
