@@ -8,11 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![https://github.com/admgrmt/HumboldtTA](src)
-
 [![Youtube][1]][2]
 
-[1]:  <img src="https://some-img-host.com/1234567/image.png" width=300 align=right>
+[1]:  /profiles/IMG_20190210_164227-01.jpeg = 250x250
 [2]:  https://www.youtube.com/watch?v=4nII6BugOss"
 
 ```markdown
