@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[![Test](https://github.com/admgrmt/HumboldtTA/profiles/IMG_20190210_164227-01.jpeg )](http://example.net/)
+[![Test](https://github.com/admgrmt/HumboldtTA/profiles/IMG_20190210_164227-01.jpeg)](https://www.youtube.com/watch?v=4nII6BugOss)
 
 ```markdown
 Syntax highlighted code block
