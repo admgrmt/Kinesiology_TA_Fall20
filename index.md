@@ -9,7 +9,6 @@
 |:-:|:-:|:-:|:-:|
 | KINS 379 and 492 | KINS 386 and 492 | KINS 379 | KINS 386 |
 |[<img src="profiles/circle-cropped.png" width="150" height="150"/>][4]|![Mishell's Image][1]|![Mishell's Image][1]|![Mishell's Image][1]|
-|[click here for video introduction](https://www.youtube.com/watch?v=4nII6BugOss "Adam's Video")|[click here for video introduction](https://digitalcommons.humboldt.edu/ideafest_posters/288/ "mishell's poster")|[click here for video introduction](https://digitalcommons.humboldt.edu/ideafest_posters/288/ "mishell's poster")|[click here for video introduction](https://digitalcommons.humboldt.edu/ideafest_posters/288/ "mishell's poster")|
 | abg40@humboldt.edu | ml157@humboldt.edu | jcs34@humboldt.edu | rs120@humboldt.edu |
 
 ## Click on the images above to access videos _(90 seconds)_ introducing each TA!
