@@ -3,6 +3,7 @@
 [1]:  profiles/Mishell.jpg "Mishell"
 [2]:  https://digitalcommons.humboldt.edu/ideafest_posters/288/ "Mishell's Poster"
 
+#### Scroll this way for more TAs ➡️ ####
 | Adam Grimmitt | Mishell Lopez | Jake Smith | Ricardo Sanchez | 
 |:-:|:-:|:-:|:-:|
 | KINS 379 and 492 | KINS 386 and 492 | KINS 379 | KINS 386 |
