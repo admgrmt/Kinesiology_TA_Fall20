@@ -5,7 +5,7 @@
 
 #### Scroll this way for more TAs ➡️ ####
 
-| Adam Grimmitt | Mishell Lopez | Jake Smith | Ricardo Sanchez | 
+| Adam Grimmitt | Mishell Lopez | Jake Smith | MAYBE | 
 |:-:|:-:|:-:|:-:|
 | KINS 379 and 492 | KINS 386 and 492 | KINS 379 | KINS 386 |
 |[![Youtube][1]][4]|![Mishell's Image][1]|![Mishell's Image][1]|![Mishell's Image][1]|
