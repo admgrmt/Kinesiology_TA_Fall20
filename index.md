@@ -1,4 +1,4 @@
-[3]:  profiles/IMG_20190210_164227-01.jpg "Adam" 
+[3]:  (profiles/IMG_20190210_164227-01.jpg= 250x250) "Adam" 
 [4]:  https://www.youtube.com/watch?v=4nII6BugOss "Adam's Youtube"
 [1]:  profiles/Mishell.jpg "Mishell"
 [2]:  https://digitalcommons.humboldt.edu/ideafest_posters/288/ "Mishell's Poster"
@@ -8,7 +8,7 @@
 | Adam Grimmitt | Mishell Lopez | Jake Smith | MAYBE | 
 |:-:|:-:|:-:|:-:|
 | KINS 379 and 492 | KINS 386 and 492 | KINS 379 | KINS 386 |
-|[![Youtube][1]][4]|![Mishell's Image][1]|![Mishell's Image][1]|![Mishell's Image][1]|
+|[![Youtube][3]|![Mishell's Image][1]|![Mishell's Image][1]|![Mishell's Image][1]|
 |[click here for video introduction](https://www.youtube.com/watch?v=4nII6BugOss "Adam's Video")|[click here for video introduction](https://digitalcommons.humboldt.edu/ideafest_posters/288/ "mishell's poster")|[click here for video introduction](https://digitalcommons.humboldt.edu/ideafest_posters/288/ "mishell's poster")|[click here for video introduction](https://digitalcommons.humboldt.edu/ideafest_posters/288/ "mishell's poster")|
 | abg40@humboldt.edu | ml157@humboldt.edu | jcs34@humboldt.edu | rs120@humboldt.edu |
 
