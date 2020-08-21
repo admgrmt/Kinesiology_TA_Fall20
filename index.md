@@ -1,5 +1,5 @@
 [3]:  <img src="profiles/IMG_20190210_164227-01.jpg" width="200" height="200" /> "Adam" 
-[4]:  https://www.youtube.com/watch?v=4nII6BugOss "Adam's Introduction"
+[4]:  https://youtu.be/1ELKQhPaA5k "Adam's Introduction"
 [1]:  profiles/Mishell.jpg "Mishell"
 [2]:  https://digitalcommons.humboldt.edu/ideafest_posters/288/ "Mishell's Poster"
 
