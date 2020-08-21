@@ -15,14 +15,14 @@
   - Get some information on the courses they teach.
   - Learn a little about who they are. 
 
-_Hey there! Welcome! Please check us out!_
+_It's no Isengard, but you Lords are welcomed nontheless!_
 
 We wanted to make a page that was:
-* Accesible to all students 
-* Isolated from canvas in a way that was easily accessible
+* Isolated from canvas to be  more easily accessible
+* Introduced TAs on a more casual basis
 * Looked like it was made by a 4th grader 
 ** (Coded by Grad Students!! have some fun TRY!!) 
-* Regularly updated enough...
+* Was regularly updated enough...
 
 ### _If you would like, feel free to send them a video letting them know who you are!_
 
