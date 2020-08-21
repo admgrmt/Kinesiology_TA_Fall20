@@ -14,13 +14,13 @@ We wanted to make a page that was:
 
 ### _If you would like, feel free to send them a video letting them know who you are!_ 
 
-[1]:  profiles/IMG_20190210_164227-01.jpg 
-[2]:  https://www.youtube.com/watch?v=4nII6BugOss 
-[3]:  profiles/Mishell.jpg
-[4]:  https://digitalcommons.humboldt.edu/ideafest_posters/288/
+[3]:  profiles/IMG_20190210_164227-01.jpg 
+[4]:  https://www.youtube.com/watch?v=4nII6BugOss 
+[1]:  profiles/Mishell.jpg
+[2]:  https://digitalcommons.humboldt.edu/ideafest_posters/288/
 
 | Adam Grimmitt | Mishell Lopez | Jake Smith | Ricardo Sanchez | 
 | :-:           | :-:           | :-:        |  :-:            |
 | KINS 379 and 492 | KINS 386 and 492 | KINS 379 | KINS 386    |
-| [![Youtube][1]][2]|[![Research][3][4]|[![Research][3][4]|[![Research][3][4]|
+| [![Youtube][3]][4]|[![Research][1]][2]|[![Research][1]][2]|[![Research][1]][2]|
 
