@@ -16,8 +16,11 @@ We wanted to make a page that was:
 
 [1]:  profiles/IMG_20190210_164227-01.jpg 
 [2]:  https://www.youtube.com/watch?v=4nII6BugOss 
+[3]:  profiles/Mishell.jpg
+[4]:  https://digitalcommons.humboldt.edu/ideafest_posters/288/
 
-| Adam Grimmitt |  kA 386, 456, and 379 |
-| :---         |  ---: |
-| [![Youtube][1]][2]|
+| Adam Grimmitt | Mishell Lopez | Jake Smith | Ricardo Sanchez | 
+| :-:           | :-:           | :-:        |  :-:            |
+| KINS 379 and 492 | KINS 386 and 492 | KINS 379 | KINS 386    |
+| [![Youtube][1]][2]|[![Research][3][4]|[![Research][3][4]|[![Research][3][4]|
 
