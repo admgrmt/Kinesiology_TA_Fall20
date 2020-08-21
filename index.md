@@ -1,11 +1,12 @@
+<img src="profiles/Mishell.jpg" width="100"/> 
 
-[3]:  profiles/IMG_20190210_164227-01.jpg 
+[3]:  <img src="profiles/Mishell.jpg" width="100"/>
 [4]:  https://www.youtube.com/watch?v=4nII6BugOss 
-[1]:  profiles/Mishell.jpg
+[1]:  <img src="profiles/Mishell.jpg" width="100"/>
 [2]:  https://digitalcommons.humboldt.edu/ideafest_posters/288/
 
-|Adam Grimmitt | Mishell Lopez | Jake Smith | Ricardo Sanchez | 
-|-:|:-:|:-:|:-:|
+| Adam Grimmitt | Mishell Lopez | Jake Smith | Ricardo Sanchez | 
+|:-:|:-:|:-:|:-:|
 |KINS 379 and 492 | KINS 386 and 492 | KINS 379 | KINS 386    |
 |[![Youtube][3]][4] click me for video introduction!|[![Research][1]][2] click me for video introduction!|[![Research][1]][2] click me for video introduction!|[![Research][1]][2] click me for video introduction!|
 | abg40@humboldt.edu | mishel.lopez@humboldt.edu | jake.smith@humboldt.edu | Ricardo.sanchez@humboldt.edu |
