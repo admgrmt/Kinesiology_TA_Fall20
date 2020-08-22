@@ -7,7 +7,7 @@
 | Adam Grimmitt | Mishell Lopez | Jake Smith | MAYBE | 
 |:-:|:-:|:-:|:-:|
 | KINS 379 and 492 | KINS 386 and 492 | KINS 379 | KINS 386 |
-|[<img src="profiles/65779417_2297620277158345_8355172126277238784_n.jpg" width="150" height="150"/>][4]|![Mishell's Image][1]|![Mishell's Image][1]|![Mishell's Image][1]|
+|[<img src="profiles/65779417_2297620277158345_8355172126277238784_n.jpg" width="150" height="150"/>][4]|![Mishell's Image][1]|[<img src="profiles/65794808_723603441426633_1212520605404889088_n.jpg" width="150" height="150"/>][2]|![Mishell's Image][1]|
 | abg40@humboldt.edu | ml157@humboldt.edu | jcs34@humboldt.edu | rs120@humboldt.edu |
 
 ## Click on the images above to access videos _(90 seconds)_ introducing each TA!
