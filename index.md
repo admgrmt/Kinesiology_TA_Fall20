@@ -1,13 +1,14 @@
-[4]:  https://youtu.be/1ELKQhPaA5k "Adam's Introduction"
+[1]: profiles/Mishell.jpg
 [2]:  https://digitalcommons.humboldt.edu/ideafest_posters/288/ "Mishell's Poster"
 [3]: https://digitalcommons.humboldt.edu/ideafest_posters/277/ "Jake's Ideafest Poster"
+[4]:  https://youtu.be/1ELKQhPaA5k "Adam's Introduction"
 
 
 #### Scroll this way for more TAs ➡️ ####
 
 | Jake Smith | Adam Grimmitt | Mishell Lopez | MAYBE | 
 |:-:|:-:|:-:|:-:|
-| KINS 379 and 492 | KINS 386 and 492 | KINS 379 | KINS 386 |
+| KINS 379 | KINS 379 and 492 | KINS 386 and 492 | KINS 386 |
 |[<img src="profiles/10674_3211673_enm3484092180ram(1) Cropped.jpg" width= "150"/>][3]|[<img src="profiles/65779417_2297620277158345_8355172126277238784_n.jpg" width="150" height="150"/>][4]|![Mishell's Image][1]|![Mishell's Image][1]|
 | jcs34@humboldt.edu | abg40@humboldt.edu | ml157@humboldt.edu | rs120@humboldt.edu |
 
