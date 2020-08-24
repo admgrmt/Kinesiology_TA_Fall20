@@ -9,7 +9,7 @@
 | Jake | Adam | Mishell | MAYBE | 
 |:-:|:-:|:-:|:-:|
 | KINS 483, 484, 456A | KINS 379 and 492B | KINS 386 and 492A | KINS 386 |
-|[<img src="profiles/10674_3211673_enm3484092180ram(1) Cropped.jpg" width= "150"/>][3]|[<img src="profiles/65779417_2297620277158345_8355172126277238784_n.jpg" width="150" height="150"/>][4]|![Mishell's Image][1]|![Mishell's Image][1]|
+|[<img src="profiles/10674_3211673_enm3484092180ram(1) Cropped.jpg" width= "150"/>][3]|[<img src="profiles/imageonline-co-cropped-image.jpg" width="150"/>][4]|<img src="profiles/index.jpg" width= "150"/>[1]|![Mishell's Image][1]|
 | jcs34@humboldt.edu | abg40@humboldt.edu | ml157@humboldt.edu | rs120@humboldt.edu |
 
 ## Click on the images above to access videos _(90 seconds)_ introducing each TA!
